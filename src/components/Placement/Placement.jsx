@@ -1,8 +1,18 @@
 import React from 'react'
+import SingleCart from '../SingleCart/SingleCart';
 
-const Placement = () => {
+const Placement = ({cart}) => {
+  console.log(cart);
+  
   return (
-    <div>Placement</div>
+    <div>
+      {
+        cart.map(singleCart =>  <SingleCart
+        key={singleCart.id}
+        singleCart = {singleCart}
+        ></SingleCart>)
+      }
+    </div>
   )
 }
 

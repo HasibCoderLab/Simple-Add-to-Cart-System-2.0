@@ -16,7 +16,7 @@ function App() {
   return (
     <div className='flex gap-5'>
       <Products addToCart={addToCart}></Products>
-      <Placement></Placement>
+      <Placement cart = {cart} ></Placement>
     </div>
   )
 }
