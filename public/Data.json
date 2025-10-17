@@ -5,7 +5,7 @@
     "price": 59.99,
     "category": "Electronics",
     "description": "High-quality wireless headphones with deep bass and noise cancellation.",
-    "img": "https://i.ibb.co.com/78xRbsN/download.jpg"
+    "img": "https://i.ibb.co.com/CKJPXb78/download-1.jpg"
   },
   {
     "id": 2,
@@ -13,7 +13,7 @@
     "price": 89.99,
     "category": "Wearables",
     "description": "Track your steps, sleep, and workouts with this sleek fitness tracker.",
-    "img": "https://i.ibb.co.com/CKJPXb78/download-1.jpg"
+    "img": "https://i.ibb.co.com/nNg6zwnW/download-2.jpg"
   },
   {
     "id": 3,
@@ -21,7 +21,7 @@
     "price": 129.99,
     "category": "Accessories",
     "description": "RGB backlit mechanical keyboard with blue switches for ultimate gaming.",
-    "img": "https://i.ibb.co.com/nNg6zwnW/download-2.jpg"
+    "img": "https://i.ibb.co.com/CKstNTPP/download-3.jpg"
   },
   {
     "id": 4,
@@ -29,7 +29,7 @@
     "price": 499.99,
     "category": "Electronics",
     "description": "55-inch Smart TV with 4K resolution and built-in streaming apps.",
-    "img": "https://i.ibb.co.com/CKstNTPP/download-3.jpg"
+    "img": "https://i.ibb.co.com/bMfhBF9f/download-4.jpg"
   },
   {
     "id": 5,
@@ -37,7 +37,7 @@
     "price": 199.99,
     "category": "Furniture",
     "description": "Ergonomic office chair with premium leather and adjustable height.",
-    "img": "https://i.ibb.co.com/bMfhBF9f/download-4.jpg"
+    "img": "https://i.ibb.co.com/0pR2VPtD/download-5.jpg"
   },
   {
     "id": 6,
@@ -45,7 +45,7 @@
     "price": 74.99,
     "category": "Footwear",
     "description": "Lightweight and comfortable sneakers for everyday wear.",
-    "img": "https://i.ibb.co.com/0pR2VPtD/download-5.jpg"
+    "img": "https://i.ibb.co.com/fzw841TG/download-6.jpg"
   },
   {
     "id": 7,
@@ -53,7 +53,7 @@
     "price": 89.49,
     "category": "Fashion",
     "description": "Stylish handbag with multiple compartments and durable leather finish.",
-    "img": "https://i.ibb.co.com/fzw841TG/download-6.jpg"
+    "img":  "https://i.ibb.co.com/Q7wmtNCM/download-7.jpg"
   },
   {
     "id": 8,
@@ -61,7 +61,7 @@
     "price": 24.99,
     "category": "Accessories",
     "description": "Ergonomic wireless mouse with adjustable DPI and long battery life.",
-    "img": "https://i.ibb.co.com/Q7wmtNCM/download-7.jpg"
+    "img": "https://i.ibb.co.com/1frN8t7j/download.jpg"
   },
   {
     "id": 9,
@@ -69,7 +69,7 @@
     "price": 49.99,
     "category": "Electronics",
     "description": "Compact waterproof speaker with powerful bass and 12-hour battery.",
-    "img": "https://i.ibb.co.com/1frN8t7j/download.jpg"
+    "img":  "https://i.ibb.co.com/b56Chcbk/download-1.jpg"
   },
   {
     "id": 10,
@@ -77,7 +77,7 @@
     "price": 39.99,
     "category": "Bags",
     "description": "Durable, water-resistant backpack with padded laptop compartment.",
-    "img": "https://i.ibb.co.com/b56Chcbk/download-1.jpg"
+    "img": "https://i.ibb.co.com/78xRbsN/download.jpg"
   },
   {
     "id": 11,

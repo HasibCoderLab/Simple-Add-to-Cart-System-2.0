@@ -6,6 +6,7 @@ const Placement = ({cart}) => {
   
   return (
     <div>
+       <h1> Add To Cart {cart.length} </h1>
       {
         cart.map(singleCart =>  <SingleCart
         key={singleCart.id}

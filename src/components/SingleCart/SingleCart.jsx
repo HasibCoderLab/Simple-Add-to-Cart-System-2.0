@@ -6,10 +6,13 @@ const SingleCart = ({singleCart}) => {
     
   return (
     <div>
+      <hr />
         <h2>Name :{name}</h2>
+       
         <p>Price :{price}</p>
         <h4>Category :{category}</h4>
         <img src={img} alt="" />
+         <hr />
     </div>
   )
 }
