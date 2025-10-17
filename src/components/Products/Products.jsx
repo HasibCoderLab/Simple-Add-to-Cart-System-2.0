@@ -9,9 +9,9 @@ const Products = () => {
             .then(data => setProducts(data))
     }, [])
     return (
-        <div>
+        <div className='grid  grid-cols-1 sm:grid-cols-1 lg:grid-cols-2 gap-5 '>
             {
-                map.products(product =>  <Product
+              products.map(product =>  <Product
                 key = {product.id}
                 product = {product}
                 ></Product>)
