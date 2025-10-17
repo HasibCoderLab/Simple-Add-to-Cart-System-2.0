@@ -2,7 +2,7 @@ import React from 'react'
 import SingleCart from '../SingleCart/SingleCart';
 
 const Placement = ({cart}) => {
-  console.log(cart);
+  // console.log(cart);
   
   return (
     <div>
