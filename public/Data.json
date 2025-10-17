@@ -5,7 +5,7 @@
     "price": 59.99,
     "category": "Electronics",
     "description": "High-quality wireless headphones with deep bass and noise cancellation.",
-    "img": "https://fakestoreapi.com/img/81Zt42ioCgL._AC_SX679_.jpg"
+    "img": "https://i.ibb.co.com/78xRbsN/download.jpg"
   },
   {
     "id": 2,
@@ -13,7 +13,7 @@
     "price": 89.99,
     "category": "Wearables",
     "description": "Track your steps, sleep, and workouts with this sleek fitness tracker.",
-    "img": "https://fakestoreapi.com/img/71HblAHs5xL._AC_UY879_-2.jpg"
+    "img": "https://i.ibb.co.com/CKJPXb78/download-1.jpg"
   },
   {
     "id": 3,
@@ -21,7 +21,7 @@
     "price": 129.99,
     "category": "Accessories",
     "description": "RGB backlit mechanical keyboard with blue switches for ultimate gaming.",
-    "img": "https://fakestoreapi.com/img/61U7T1koQqL._AC_SX679_.jpg"
+    "img": "https://i.ibb.co.com/nNg6zwnW/download-2.jpg"
   },
   {
     "id": 4,
@@ -29,7 +29,7 @@
     "price": 499.99,
     "category": "Electronics",
     "description": "55-inch Smart TV with 4K resolution and built-in streaming apps.",
-    "img": "https://fakestoreapi.com/img/81QpkIctqPL._AC_SX679_.jpg"
+    "img": "https://i.ibb.co.com/CKstNTPP/download-3.jpg"
   },
   {
     "id": 5,
@@ -37,7 +37,7 @@
     "price": 199.99,
     "category": "Furniture",
     "description": "Ergonomic office chair with premium leather and adjustable height.",
-    "img": "https://fakestoreapi.com/img/71kWymZ+c+L._AC_SX679_.jpg"
+    "img": "https://i.ibb.co.com/bMfhBF9f/download-4.jpg"
   },
   {
     "id": 6,
@@ -45,7 +45,7 @@
     "price": 74.99,
     "category": "Footwear",
     "description": "Lightweight and comfortable sneakers for everyday wear.",
-    "img": "https://fakestoreapi.com/img/71li-ujtlUL._AC_UX679_.jpg"
+    "img": "https://i.ibb.co.com/0pR2VPtD/download-5.jpg"
   },
   {
     "id": 7,
@@ -53,7 +53,7 @@
     "price": 89.49,
     "category": "Fashion",
     "description": "Stylish handbag with multiple compartments and durable leather finish.",
-    "img": "https://fakestoreapi.com/img/71YXzeOuslL._AC_UY879_.jpg"
+    "img": "https://i.ibb.co.com/fzw841TG/download-6.jpg"
   },
   {
     "id": 8,
@@ -61,7 +61,7 @@
     "price": 24.99,
     "category": "Accessories",
     "description": "Ergonomic wireless mouse with adjustable DPI and long battery life.",
-    "img": "https://fakestoreapi.com/img/61U7T1koQqL._AC_SX679_.jpg"
+    "img": "https://i.ibb.co.com/Q7wmtNCM/download-7.jpg"
   },
   {
     "id": 9,
@@ -69,7 +69,7 @@
     "price": 49.99,
     "category": "Electronics",
     "description": "Compact waterproof speaker with powerful bass and 12-hour battery.",
-    "img": "https://fakestoreapi.com/img/71iO2R+CLjL._AC_SX679_.jpg"
+    "img": "https://i.ibb.co.com/1frN8t7j/download.jpg"
   },
   {
     "id": 10,
@@ -77,7 +77,7 @@
     "price": 39.99,
     "category": "Bags",
     "description": "Durable, water-resistant backpack with padded laptop compartment.",
-    "img": "https://fakestoreapi.com/img/81fPKd-2AYL._AC_SL1500_.jpg"
+    "img": "https://i.ibb.co.com/b56Chcbk/download-1.jpg"
   },
   {
     "id": 11,
@@ -85,7 +85,7 @@
     "price": 19.99,
     "category": "Home",
     "description": "Color-changing LED bulb controllable via smartphone app.",
-    "img": "https://fakestoreapi.com/img/71W1M7x2TML._AC_SX679_.jpg"
+    "img": "https://i.ibb.co.com/7dC9L9Gc/download.jpg"
   },
   {
     "id": 12,
@@ -93,6 +93,6 @@
     "price": 34.99,
     "category": "Appliances",
     "description": "1.7L stainless steel electric kettle with auto shut-off feature.",
-    "img": "https://fakestoreapi.com/img/61ZQ1tX5o2L._AC_SX679_.jpg"
+    "img": "https://i.ibb.co.com/Q7qh9GVv/images.jpg"
   }
 ]
